@@ -18,7 +18,7 @@ In this assignment, we are implementing GRADCAM .
 <p> We have selected same image (as in part A).But this time model is trained with cut out.
 Given below are original image and their superimposed image.<p>
   
- Actiavtion seems to have more spread while using cutout.
+ 
  
  
 ![alt text](https://github.com/rp8081/Session-9/blob/master/image_994_cutout.png)
